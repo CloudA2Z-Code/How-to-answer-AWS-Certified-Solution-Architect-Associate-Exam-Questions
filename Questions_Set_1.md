@@ -32,3 +32,5 @@ Why (Analyse and answer this scenario based question)
 Service Capabilities:
 ---------------------
 * AWS Global Accelerator - AWS Global Accelerator is a service that improves the availability and performance of your applications with local or global users. It provides static IP addresses that act as a fixed entry point to your application endpoints in a single or multiple AWS Regions, such as your **Application Load Balancers, Network Load Balancers or Amazon EC2 instances**.
+Compatibilty: **Application Load Balancers, Network Load Balancers or Amazon EC2 instances**.
+Scenarios you can use: non Http 
